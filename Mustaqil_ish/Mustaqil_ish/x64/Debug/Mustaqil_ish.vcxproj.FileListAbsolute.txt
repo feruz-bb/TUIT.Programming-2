@@ -1,0 +1,3 @@
+D:\GitHUB\TUIT.Programming-2\Mustaqil_ish\Mustaqil_ish\x64\Debug\Mustaqil_ish.vcxproj.AssemblyReference.cache
+D:\GitHUB\TUIT.Programming-2\Mustaqil_ish\Mustaqil_ish\x64\Debug\Mustaqilish.MyForm.resources
+D:\GitHUB\TUIT.Programming-2\Mustaqil_ish\Mustaqil_ish\x64\Debug\Mustaqil_ish.vcxproj.GenerateResource.cache

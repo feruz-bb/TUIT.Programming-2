@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHUB\\TUIT.Programming-2\\deadline_bf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E25CE2-54DB-4BEB-A400-5E1B57051275}|deadline_bf.vcxproj|D:\\GitHUB\\TUIT.Programming-2\\deadline_bf\\deadline_bf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14E25CE2-54DB-4BEB-A400-5E1B57051275}|deadline_bf.vcxproj|solutionrelative:deadline_bf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "deadline_bf.cpp",
+              "DocumentMoniker": "D:\\GitHUB\\TUIT.Programming-2\\deadline_bf\\deadline_bf.cpp",
+              "RelativeDocumentMoniker": "deadline_bf.cpp",
+              "ToolTip": "D:\\GitHUB\\TUIT.Programming-2\\deadline_bf\\deadline_bf.cpp",
+              "RelativeToolTip": "deadline_bf.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-02T04:52:15.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+D:\GitHUB\TUIT.Programming-2\dasturlash06_05_24\dasturla.3203818B\x64\Debug\dasturlash06_05_24.vcxproj.AssemblyReference.cache
+D:\GitHUB\TUIT.Programming-2\dasturlash06_05_24\dasturla.3203818B\x64\Debug\dasturlash060524.mainForm.resources
+D:\GitHUB\TUIT.Programming-2\dasturlash06_05_24\dasturla.3203818B\x64\Debug\dasturlash060524.secondForm.resources
+D:\GitHUB\TUIT.Programming-2\dasturlash06_05_24\dasturla.3203818B\x64\Debug\dasturlash06_05_24.vcxproj.GenerateResource.cache

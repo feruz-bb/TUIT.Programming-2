@@ -1,0 +1,27 @@
+﻿deadline_bf.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__invalid_parameter в функции "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z).
+deadline_bf.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__CrtDbgReport в функции "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z).
+deadline_bf.obj : error LNK2019: ссылка на неразрешенный внешний символ strlen в функции "public: static unsigned __int64 __cdecl std::_Narrow_char_traits<char,int>::length(char const * const)" (?length@?$_Narrow_char_traits@DH@std@@SA_KQEBD@Z).
+deadline_bf.obj : error LNK2019: ссылка на неразрешенный внешний символ __std_exception_copy в функции "public: __cdecl std::exception::exception(class std::exception const &)" (??0exception@std@@QEAA@AEBV01@@Z).
+MSVCRTD.lib(throw_bad_alloc.obj) : error LNK2001: неразрешенный внешний символ __std_exception_copy.
+deadline_bf.obj : error LNK2019: ссылка на неразрешенный внешний символ __std_exception_destroy в функции "public: virtual __cdecl std::exception::~exception(void)" (??1exception@std@@UEAA@XZ).
+MSVCRTD.lib(throw_bad_alloc.obj) : error LNK2001: неразрешенный внешний символ __std_exception_destroy.
+deadline_bf.obj : error LNK2019: ссылка на неразрешенный внешний символ _CxxThrowException в функции "void __cdecl std::_Throw_bad_array_new_length(void)" (?_Throw_bad_array_new_length@std@@YAXXZ).
+MSVCRTD.lib(throw_bad_alloc.obj) : error LNK2001: неразрешенный внешний символ _CxxThrowException.
+deadline_bf.obj : error LNK2001: неразрешенный внешний символ __CxxFrameHandler4.
+MSVCRTD.lib(gshandlereh4.obj) : error LNK2001: неразрешенный внешний символ __CxxFrameHandler4.
+MSVCRTD.lib(new_scalar.obj) : error LNK2019: ссылка на неразрешенный внешний символ _callnewh в функции "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z).
+MSVCRTD.lib(new_scalar.obj) : error LNK2019: ссылка на неразрешенный внешний символ malloc в функции "void * __cdecl operator new(unsigned __int64)" (??2@YAPEAX_K@Z).
+MSVCRTD.lib(init.obj) : error LNK2019: ссылка на неразрешенный внешний символ _CrtDbgReport в функции _CRT_RTC_INIT.
+MSVCRTD.lib(init.obj) : error LNK2019: ссылка на неразрешенный внешний символ _CrtDbgReportW в функции _CRT_RTC_INITW.
+MSVCRTD.lib(delete_scalar.obj) : error LNK2019: ссылка на неразрешенный внешний символ _free_dbg в функции "void __cdecl operator delete(void *)" (??3@YAXPEAX@Z).
+MSVCRTD.lib(error.obj) : error LNK2019: ссылка на неразрешенный внешний символ strcpy_s в функции "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z).
+MSVCRTD.lib(error.obj) : error LNK2019: ссылка на неразрешенный внешний символ strcat_s в функции "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z).
+MSVCRTD.lib(error.obj) : error LNK2019: ссылка на неразрешенный внешний символ __stdio_common_vsprintf_s в функции _vsprintf_s_l.
+MSVCRTD.lib(error.obj) : error LNK2001: неразрешенный внешний символ __C_specific_handler_noexcept.
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ _wmakepath_s в функции "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z).
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ _wsplitpath_s в функции "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z).
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ wcscpy_s в функции "int __cdecl GetPdbDllPathFromFilePath(wchar_t const *,wchar_t *,unsigned __int64)" (?GetPdbDllPathFromFilePath@@YAHPEB_WPEA_W_K@Z).
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ __vcrt_GetModuleFileNameW в функции "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ).
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ __vcrt_GetModuleHandleW в функции "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ).
+MSVCRTD.lib(pdblkup.obj) : error LNK2019: ссылка на неразрешенный внешний символ __vcrt_LoadLibraryExW в функции "struct HINSTANCE__ * __cdecl GetPdbDll(void)" (?GetPdbDll@@YAPEAUHINSTANCE__@@XZ).
+D:\GitHUB\TUIT.Programming-2\deadline_bf\x64\Debug\deadline_bf.exe : fatal error LNK1120: неразрешенных внешних элементов: 22

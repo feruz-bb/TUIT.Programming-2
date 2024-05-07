@@ -1,0 +1,46 @@
+﻿  MyForm.cpp
+  MyForm5.cpp
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,105): error C2039: 'textBox1_KeyPress': is not a member of 'Project2::MyForm5_aktim'
+  (compiling source file 'MyForm.cpp')
+  D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(15,19):
+  see declaration of 'Project2::MyForm5_aktim'
+  
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,105): error C2065: 'textBox1_KeyPress': undeclared identifier
+  (compiling source file 'MyForm.cpp')
+  
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,82): error C3924: error in argument #2 of delegate constructor call 'System::Windows::Forms::KeyPressEventHandler':
+  (compiling source file 'MyForm.cpp')
+  D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,82):
+  pointer to member function expected
+  
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm.h(192,5): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'MyForm.cpp')
+  
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,105): error C2039: 'textBox1_KeyPress': is not a member of 'Project2::MyForm5_aktim'
+  (compiling source file 'MyForm5.cpp')
+  D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(15,19):
+  see declaration of 'Project2::MyForm5_aktim'
+  
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,105): error C2065: 'textBox1_KeyPress': undeclared identifier
+  (compiling source file 'MyForm5.cpp')
+  
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,82): error C3924: error in argument #2 of delegate constructor call 'System::Windows::Forms::KeyPressEventHandler':
+  (compiling source file 'MyForm5.cpp')
+  D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,82):
+  pointer to member function expected
+  
+  MyForm5_aktim.cpp
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,105): error C2039: 'textBox1_KeyPress': is not a member of 'Project2::MyForm5_aktim'
+  (compiling source file 'MyForm5_aktim.cpp')
+  D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(15,19):
+  see declaration of 'Project2::MyForm5_aktim'
+  
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,105): error C2065: 'textBox1_KeyPress': undeclared identifier
+  (compiling source file 'MyForm5_aktim.cpp')
+  
+D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,82): error C3924: error in argument #2 of delegate constructor call 'System::Windows::Forms::KeyPressEventHandler':
+  (compiling source file 'MyForm5_aktim.cpp')
+  D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,82):
+  pointer to member function expected
+  
+  Generating Code...
