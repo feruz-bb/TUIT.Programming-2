@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\GitHUB\\TUIT.Programming-2\\Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm5_akt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
-      "RelativeMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|solutionrelative:MyForm5_akt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+      "AbsoluteMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|solutionrelative:MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|solutionrelative:MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
       "RelativeMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|solutionrelative:MyForm5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm5_akt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|solutionrelative:MyForm5_akt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{FF746345-18CF-4AA1-8E6A-88EDA83EEEAF}|Project2.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,25 +34,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MyForm.h",
               "DocumentMoniker": "D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.h",
               "RelativeDocumentMoniker": "MyForm.h",
               "ToolTip": "D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.h",
               "RelativeToolTip": "MyForm.h",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAqwLAAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-04T16:06:07.076Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.cpp",
+              "RelativeDocumentMoniker": "MyForm.cpp",
+              "ToolTip": "D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.cpp",
+              "RelativeToolTip": "MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T14:42:36.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "MyForm.h [Design]",
+              "DocumentMoniker": "D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm.h [Design]",
+              "RelativeToolTip": "MyForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T14:42:35.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MyForm5_akt.h [Design]",
               "DocumentMoniker": "D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm5_akt.h",
               "RelativeDocumentMoniker": "MyForm5_akt.h",
@@ -66,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MyForm5.h",
               "DocumentMoniker": "D:\\GitHUB\\TUIT.Programming-2\\Project2\\MyForm5.h",
               "RelativeDocumentMoniker": "MyForm5.h",

@@ -1,5 +1,4 @@
 ﻿  MyForm.cpp
-  MyForm5.cpp
 D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,105): error C2039: 'textBox1_KeyPress': is not a member of 'Project2::MyForm5_aktim'
   (compiling source file 'MyForm.cpp')
   D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(15,19):
@@ -16,6 +15,7 @@ D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,82): error C3924: erro
 D:\GitHUB\TUIT.Programming-2\Project2\MyForm.h(192,5): error C2143: syntax error: missing ';' before '}'
   (compiling source file 'MyForm.cpp')
   
+  MyForm5.cpp
 D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(147,105): error C2039: 'textBox1_KeyPress': is not a member of 'Project2::MyForm5_aktim'
   (compiling source file 'MyForm5.cpp')
   D:\GitHUB\TUIT.Programming-2\Project2\MyForm5_aktim.h(15,19):
